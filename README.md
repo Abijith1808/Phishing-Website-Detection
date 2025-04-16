@@ -12,11 +12,12 @@ can be identified by machine learning methods.
 
 
 ## DATASET:
-• 1 means legitimate
-• 0 is suspicious
-• -1 is phishing
-• The dataset is borrowed from Kaggle:
-• https://www.kaggle.com/eswarchandt/phishing-website-detector .
-• A collection of website URLs for 11000+ websites. Each sample has 30 website parameters and a class label identifying it as a phishing website or not (1 or -1).
-• The overview of this dataset is, it has 11054 samples with 32 features. Download the dataset
+1 means legitimate
+0 is suspicious
+-1 is phishing
+Dataset link: https://www.kaggle.com/eswarchandt/phishing-website-detector .
+
+A collection of website URLs for 11000+ websites. Each sample has 30 website parameters and a class label identifying it as a phishing website or not (1 or -1).
+
+The overview of this dataset is, it has 11054 samples with 32 features. Download the dataset
 from the link provided
