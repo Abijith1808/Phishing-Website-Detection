@@ -12,8 +12,8 @@ can be identified by machine learning methods.
 
 
 ## DATASET:
-1 means legitimate
-0 is suspicious
+1 means legitimate, 
+0 is suspicious, 
 -1 is phishing
 
 Dataset link: https://www.kaggle.com/eswarchandt/phishing-website-detector .
