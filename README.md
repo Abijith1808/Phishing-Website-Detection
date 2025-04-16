@@ -1,6 +1,5 @@
 # Phishing-Website-Detection
 
-## INTRODUCTION:
 The Internet has become an indispensable part of our life; However, it also has provided
 opportunities to anonymously perform malicious activities like Phishing. Phishers try to deceive their
 victims by social engineering or creating mock-up websites to steal information such as account ID,
